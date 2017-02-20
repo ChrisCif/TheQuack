@@ -1,0 +1,18 @@
+[22-Dec-2014 10:33:29 America/Chicago] PHP Parse error:  syntax error, unexpected ''' (T_CONSTANT_ENCAPSED_STRING) in /home2/jeffers/public_html/Capstone/Activities/DEV/functionPHP/pullEvents_sub.php on line 3
+[22-Dec-2014 10:38:21 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home2/jeffers/public_html/Capstone/Activities/DEV/functionPHP/upload_image.php on line 15
+[22-Dec-2014 11:01:07 America/Chicago] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home2/jeffers/public_html/Capstone/Activities/DEV/functionPHP/pullEvents_sub.php on line 34
+[22-Dec-2014 11:01:10 America/Chicago] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home2/jeffers/public_html/Capstone/Activities/DEV/functionPHP/pullEvents_sub.php on line 34
+[22-Dec-2014 11:01:12 America/Chicago] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home2/jeffers/public_html/Capstone/Activities/DEV/functionPHP/pullEvents_sub.php on line 34
+[22-Dec-2014 11:01:18 America/Chicago] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home2/jeffers/public_html/Capstone/Activities/DEV/functionPHP/pullEvents_sub.php on line 34
+[22-Dec-2014 11:01:37 America/Chicago] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home2/jeffers/public_html/Capstone/Activities/DEV/functionPHP/pullEvents_sub.php on line 35
+[22-Dec-2014 11:01:40 America/Chicago] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home2/jeffers/public_html/Capstone/Activities/DEV/functionPHP/pullEvents_sub.php on line 35
+[22-Dec-2014 11:01:48 America/Chicago] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home2/jeffers/public_html/Capstone/Activities/DEV/functionPHP/pullEvents_sub.php on line 35
+[23-Dec-2014 11:14:53 America/Chicago] PHP Warning:  require(../settingsPHP/SQLInfo.php): failed to open stream: No such file or directory in /home2/jeffers/public_html/Capstone/Activities/DEV/functionPHP/submitClub.php on line 2
+[23-Dec-2014 11:14:53 America/Chicago] PHP Warning:  require(../settingsPHP/SQLInfo.php): failed to open stream: No such file or directory in /home2/jeffers/public_html/Capstone/Activities/DEV/functionPHP/submitClub.php on line 2
+[23-Dec-2014 11:14:53 America/Chicago] PHP Fatal error:  require(): Failed opening required '../settingsPHP/SQLInfo.php' (include_path='.:/opt/php54/lib/php') in /home2/jeffers/public_html/Capstone/Activities/DEV/functionPHP/submitClub.php on line 2
+[13-Jan-2015 10:17:19 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home2/jeffers/public_html/Capstone/Activities/DEV/settingPHP/SQLInfo.php on line 15
+[13-Jan-2015 10:17:19 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home2/jeffers/public_html/Capstone/Activities/DEV/settingPHP/SQLInfo.php on line 15
+[13-Jan-2015 10:17:19 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home2/jeffers/public_html/Capstone/Activities/DEV/functionPHP/editClubInfo.php on line 7
+[13-Jan-2015 10:17:19 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home2/jeffers/public_html/Capstone/Activities/DEV/functionPHP/upload_image.php on line 15
+[20-Jan-2015 10:13:21 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home2/jeffers/public_html/Capstone/Activities/DEV/functionPHP/settingAdj.php on line 59
+[20-Jan-2015 10:13:25 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home2/jeffers/public_html/Capstone/Activities/DEV/functionPHP/settingAdj.php on line 59
